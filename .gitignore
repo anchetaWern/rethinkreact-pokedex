@@ -1,0 +1,5 @@
+node_modules/
+public/img/*.png
+.editorconfig
+app/node_modules
+app/js/app.js
